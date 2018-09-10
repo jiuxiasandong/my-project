@@ -73,7 +73,7 @@
       </li>
       <li>
         <a
-          href="https://github.com/vuejs/awesome-vue"
+          :href="link"
           target="_blank"
         >
           awesome-vue
@@ -84,17 +84,14 @@
 </template>
 
 <script>
+import {mapState} from "vuex"
 export default {
   name: 'HelloWorld',
   data () {
     return {
       msg: 'Welcome to Your Vue.js App',
-      word:"day day up!",
-      txt:"good good study!",
-      src:"hello1",
-      xiaowei:"dada"
     }
-  }
+  },
 }
 </script>
 
