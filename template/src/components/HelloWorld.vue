@@ -89,14 +89,7 @@ export default {
   data () {
     return {
       msg: 'Welcome to Your Vue.js App',
-      word:"day day up!",
       txt:"good good study!",
-<<<<<<< HEAD
-      test:"hello2",
-=======
-      src:"hello1",
->>>>>>> xiaowei
-      xiaowei:"dada"
     }
   }
 }
