@@ -89,7 +89,8 @@ export default {
   data () {
     return {
       msg: 'Welcome to Your Vue.js App',
-      word:"day day up!"
+      word:"day day up!",
+      txt:"good good study!"
     }
   }
 }
