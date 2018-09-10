@@ -89,7 +89,8 @@ export default {
   data () {
     return {
       msg: 'Welcome to Your Vue.js App',
-      txt:"good good 1!",
+      word:"day day up!",
+      txt:"good good study!",
     }
   }
 }
@@ -109,6 +110,6 @@ li {
   margin: 0 10px;
 }
 a {
-  color: #42b983;
+  color: #42b983; 
 }
 </style>
