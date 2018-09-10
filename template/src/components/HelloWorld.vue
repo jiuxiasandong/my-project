@@ -91,7 +91,7 @@ export default {
       msg: 'Welcome to Your Vue.js App',
       word:"day day up!",
       txt:"good good study!",
-      test:"hello every One",
+      src:"hello1",
       xiaowei:"dada"
     }
   }
