@@ -88,6 +88,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
+      sign:"i am a flag",
       msg: 'Welcome to Your Vue.js App',
       word:"day day up!",
       txt:"good good study!", 
